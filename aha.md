@@ -1,7 +1,7 @@
 # John-hopkins-coursera
 
 <!doctype html>
-<html>
+<lang html>
 <head>
 <meta charset="utf-8">
 <title>Inceputul</title>
